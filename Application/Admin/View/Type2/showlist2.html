@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<link rel="stylesheet" href="{$Think.const.ADMIN_CSS_URL}index.css" type="text/css" media="screen">
+<link rel="stylesheet" href="{$Think.const.ADMIN_CSS_URL}bootstrap.min.css">
+<script type="text/javascript" src="{$Think.const.ADMIN_JS_URL}jquery.js"></script>
+<script type="text/javascript" src="{$Think.const.ADMIN_JS_URL}tendina.min.js"></script>
+<script type="text/javascript" src="{$Think.const.ADMIN_JS_URL}common.js"></script>
+
+</head>
+<body>
+   
+
+        <div class="route_bg">
+            <span>&nbsp;美丽风光&nbsp;->&nbsp;管理</span>
+            <a href="__CONTROLLER__/tianjia2" style="float:right;margin:0px 10px 0px 0px;">添加</a> &nbsp;&nbsp;
+            <!--<form action="" style="float:right;margin-right:600px;">
+                <input type="text" /> &nbsp;
+                <input type="submit" value="show" />
+            </form>-->
+        </div>
+        
+       
+ 
+<table class="table table-striped table-bordered table-hover">
+   <thead>
+     <tr>
+       <th>id</th>
+       <th>地点</th>
+       <th>图片</th>
+         <th>缩略图</th>
+
+       <th>内容</th>
+       <th>操作</th>
+       <th>操作</th>
+
+     </tr>
+   </thead>
+   <!--显示出数据库里的相关表-->
+   
+   <tbody>
+   <volist name="res" id="vo">
+     <tr>
+       <td>{$vo.id}</td>
+       <td>{$vo.place}</td>
+       <td>{$Think.const.UPLOAD_URL}/{$vo.image}</td>
+         <td><img src="{$Think.const.UPLOAD_URL}/{$vo.image}" alt="" width="60px" height="60px"></td>
+
+       <td>{$vo.content}</td>
+       <td><a href="__CONTROLLER__/shanchu2/id/{$vo.id}" onclick="return confirm('您确定要删除这个栏目吗？')">删除</a></td>
+       <td><a href="__CONTROLLER__/xiugai2/id/{$vo.id}">更改</a></td>
+     </tr>
+     </volist>
+   </tbody>
+   <tr>
+   <td colspan="8" style="text-align:center; margin-left:10px;">{$page}</td>
+   </tr>
+
+ </table>
+    
+
+    <div class="layout_footer"></div>
+
+</body>
+</html>

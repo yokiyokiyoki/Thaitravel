@@ -1,0 +1,596 @@
+[ 2016-06-18T16:48:00+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2016-06-18T16:48:02+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/activity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+
+[ 2016-06-18T16:49:45+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+
+[ 2016-06-18T16:49:46+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/activity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2016-06-18T16:50:50+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/activity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2016-06-18T16:51:14+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/activity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2016-06-18T16:51:17+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+
+[ 2016-06-18T16:51:19+08:00 ] ::1 /ThaiTravel/index.php/Home/User/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-06-18T16:51:19+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2016-06-18T16:53:20+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/activity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2016-06-18T16:53:21+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+
+[ 2016-06-18T16:53:23+08:00 ] ::1 /ThaiTravel/index.php/Home/Destination/desinterest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2016-06-18T16:53:25+08:00 ] ::1 /ThaiTravel/index.php/Home/Destination/despark
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2016-06-18T16:53:26+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+
+[ 2016-06-18T16:53:27+08:00 ] ::1 /ThaiTravel/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2016-06-18T16:53:31+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/activity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+
+[ 2016-06-18T16:53:35+08:00 ] ::1 /ThaiTravel/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+
+[ 2016-06-18T16:53:38+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+
+[ 2016-06-18T16:53:40+08:00 ] ::1 /ThaiTravel/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2016-06-18T16:53:47+08:00 ] ::1 /ThaiTravel/index.php/Home/Destination/desinterest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2016-06-18T16:53:51+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+
+[ 2016-06-18T16:53:52+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2016-06-18T16:53:53+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2016-06-18T16:53:55+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/FAQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-06-18T16:54:01+08:00 ] ::1 /ThaiTravel/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-06-18T16:54:16+08:00 ] ::1 /ThaiTravel/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2016-06-18T16:54:17+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2016-06-18T16:54:20+08:00 ] ::1 /ThaiTravel/index.php/Home/Destination/desinterest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-06-18T16:54:21+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/activity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+
+[ 2016-06-18T16:54:23+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storythai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2016-06-18T16:54:29+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2016-06-18T16:54:37+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-06-18T16:54:42+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storyours/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+
+[ 2016-06-18T16:54:58+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storyours/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000926s ]
+
+[ 2016-06-18T16:55:58+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+
+[ 2016-06-18T16:56:13+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2016-06-18T16:56:25+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2016-06-18T16:57:20+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-06-18T16:57:22+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storythai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+
+[ 2016-06-18T16:57:29+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2016-06-18T16:57:30+08:00 ] ::1 /ThaiTravel/index.php/Home/Destination/desinterest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2016-06-18T16:57:31+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/activity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+
+[ 2016-06-18T16:57:33+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storythai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+
+[ 2016-06-18T16:57:36+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/activity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+
+[ 2016-06-18T16:58:07+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storythai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2016-06-18T16:58:16+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+
+[ 2016-06-18T16:58:19+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+
+[ 2016-06-18T16:58:20+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storyours/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+
+[ 2016-06-18T16:58:27+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/commentdelete/userid/21/commentid/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001436s ]
+
+[ 2016-06-18T16:58:39+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/commentadd/youjiid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-06-18T16:58:41+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storyours/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2016-06-18T16:58:46+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/commentdelete/userid/11/commentid/13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2016-06-18T16:58:47+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storyours/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001216s ]
+
+[ 2016-06-18T16:58:54+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/commentadd/youjiid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-06-18T16:58:55+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storyours/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+
+[ 2016-06-18T16:59:08+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2016-06-18T16:59:10+08:00 ] ::1 /ThaiTravel/index.php/Home/Destination/despark
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2016-06-18T16:59:17+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/activity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2016-06-18T19:16:19+08:00 ] ::1 /ThaiTravel/index.php/Home/Destination/desinterest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+
+[ 2016-06-18T19:16:20+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/activity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001082s ]
+
+[ 2016-06-18T19:16:22+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/FAQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2016-06-18T19:16:23+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2016-06-18T19:16:28+08:00 ] ::1 /ThaiTravel/index.php/Home/User/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2016-06-18T19:16:28+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2016-06-18T19:16:30+08:00 ] ::1 /ThaiTravel/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2016-06-18T19:16:37+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+
+[ 2016-06-18T19:16:39+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/FAQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2016-06-18T19:16:40+08:00 ] ::1 /ThaiTravel/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2016-06-18T19:16:41+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/FAQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2016-06-18T19:16:45+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+
+[ 2016-06-18T19:16:46+08:00 ] ::1 /ThaiTravel/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+
+[ 2016-06-18T19:16:48+08:00 ] ::1 /ThaiTravel/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2016-06-18T19:16:49+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2016-06-18T19:16:53+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2016-06-18T19:17:30+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+
+[ 2016-06-18T19:19:01+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2016-06-18T19:19:17+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+
+[ 2016-06-18T19:20:13+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2016-06-18T19:20:25+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2016-06-18T19:20:38+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2016-06-18T19:20:58+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-06-18T19:23:51+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2016-06-18T19:23:51+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000928s ]
+ERR: 非法操作:index.js.map
+
+[ 2016-06-18T19:23:57+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2016-06-18T19:24:00+08:00 ] ::1 /ThaiTravel/index.php/Home/User/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+
+[ 2016-06-18T19:24:00+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2016-06-18T19:24:01+08:00 ] ::1 /ThaiTravel/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2016-06-18T19:24:08+08:00 ] ::1 /ThaiTravel/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2016-06-18T19:24:09+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2016-06-18T19:24:11+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-06-18T19:24:35+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2016-06-18T19:24:43+08:00 ] ::1 /ThaiTravel/index.php/Home/Destination/despark
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2016-06-18T19:24:46+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/activity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2016-06-18T19:24:48+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2016-06-18T19:24:51+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storyours/id/23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2016-06-18T19:24:54+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storyours/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2016-06-18T19:25:05+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/commentadd/youjiid/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-06-18T19:25:07+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storyours/id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2016-06-18T19:25:25+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storyours/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-06-18T19:25:29+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storyours/id/27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-06-18T19:26:21+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/FAQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+
+[ 2016-06-18T19:26:23+08:00 ] ::1 /ThaiTravel/index.php/Home/Route/recommendthai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2016-06-18T19:27:12+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/activity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2016-06-18T19:27:22+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storythai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+
+[ 2016-06-18T19:27:25+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/FAQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001169s ]
+
+[ 2016-06-18T19:27:29+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2016-06-18T19:28:34+08:00 ] ::1 /ThaiTravel/index.php/Home/Destination/desinterest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2016-06-18T20:30:53+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2016-06-18T22:48:51+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/activity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+
+[ 2016-06-18T22:49:13+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storythai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2016-06-18T22:49:15+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-06-18T22:49:17+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storyours/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2016-06-18T22:52:16+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/commentdelete/userid/21/commentid/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+
+[ 2016-06-18T22:52:23+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/commentdelete/userid/11/commentid/14
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2016-06-18T22:52:24+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storyours/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2016-06-18T22:52:37+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+
+[ 2016-06-18T22:52:40+08:00 ] ::1 /ThaiTravel/index.php/Home/Story/storyours/id/27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+
+[ 2016-06-18T22:52:46+08:00 ] ::1 /ThaiTravel/index.php/Home/Destination/desinterest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-06-18T22:52:51+08:00 ] ::1 /ThaiTravel/index.php/Home/Index/activity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+

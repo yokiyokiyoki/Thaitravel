@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<link rel="stylesheet" href="{$Think.const.ADMIN_CSS_URL}index.css" type="text/css" media="screen">
+<link rel="stylesheet" href="{$Think.const.ADMIN_CSS_URL}bootstrap.min.css">
+<script type="text/javascript" src="{$Think.const.ADMIN_JS_URL}jquery.js"></script>
+<script type="text/javascript" src="{$Think.const.ADMIN_JS_URL}tendina.min.js"></script>
+<script type="text/javascript" src="{$Think.const.ADMIN_JS_URL}common.js"></script>
+
+</head>
+<body>
+
+  <div class="route_bg">
+            <span>&nbsp;Thai推荐列表&nbsp;->&nbsp;Thai推荐修改</span>
+            <a href="__CONTROLLER__/showlist" style="float:right;margin:0px 10px 0px 0px;">返回</a> &nbsp;&nbsp;
+        </div>
+		
+<form action="__SELF__" method="post" >
+<table class="table table-bordered">
+   <thead>
+     <tr>
+
+       <td>活动名称</td>
+       <td colspan="2"><input type="text" name="route_name" value="{$name}" /></td>
+       <input type="hidden" name="id" value="{$id}">
+     </tr>
+   </thead>
+   <tbody>
+     <tr>
+       <td>价格</td>
+       <td colspan="2"><input type="text" name="route_price" value= "{$price}" /></td>
+       
+     </tr>
+
+     
+    <tr>
+        
+       <td>内容</td>
+       <td colspan="2">
+
+           <textarea name="route_content"  id="" cols="60" rows="10">{$content}</textarea>
+       </td>
+       
+     
+     </tr>
+     <tr>
+        
+       <td colspan="3" style="text-align:center">
+           <input type="submit" value="修改" />
+       </td>
+       
+       
+     </tr>
+   </tbody>
+ </table>
+</form>
+</body>
+</html>

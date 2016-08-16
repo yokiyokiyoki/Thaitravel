@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="{$Think.const.HOME_CSS_URL}bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="{$Think.const.HOME_CSS_URL}style.css" />
+    <title></title>
+</head>
+<body>
+<div class="page-heading">
+
+
+    <!--导航 -->
+    <div class="navbar navbar-inverse navbar-static-top" role="navigation" id="menu-nav">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">切换导航</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="__MODULE__/Index/index">ThaiTravel</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="__MODULE__/Index/index">首页</a></li>
+                    <li class="dropdown active">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">目的地 <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+
+
+                            <li><a href="__CONTROLLER__/desinterest">美丽风光</a></li>
+                            <li><a href="__CONTROLLER__/despark">国家公园</a></li>
+
+                        </ul>
+                    </li>
+                    <li><a href="__MODULE__/Index/activity">活动</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">概况 <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <?php
+								if($_SESSION['user_id']){
+								 echo	'<li><a href="__MODULE__/Story/storythai">写游记</a></li>';
+                            }
+                            ; ?>
+                            <li><a href="__MODULE__/Story/storylist">我们的故事</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">路线推荐 <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="recommend-thai.html">Thai推荐</a></li>
+
+                        </ul>
+                    </li>
+
+                    <li><a href="__MODULE__/Index/FAQ">常见问题</a></li>
+                    <?php
+								if($_SESSION['user_id']){
+								echo '<li class="dropdown"  >';
+                    echo '<a href="#" class="dropdown-toggle" data-toggle="dropdown">个人中心 <span class="caret"></span></a>';
+                    echo '<ul class="dropdown-menu">';
+                    echo	'<li><a href="__MODULE__/Index/edit">个人中心</a></li>';
+                    echo  '<li><a href="__MODULE__/User/logout">注销登录</a></li>';
+                    echo '</ul>';
+                    echo '</li>';
+                    }else{
+
+                    echo '<li><a href="__MODULE__/User/login">登录</a></li>';
+                    }
+                    ; ?>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="cover-head">
+        <div class="container">
+            <h1>泰国地图</h1>
+        </div>
+    </div>
+</div>
+
+<div class="container map">
+    <div class="block">
+        <img class="a" src="{$Think.const.HOME_IMG_URL}a.png"/>
+        <img class="b" src="{$Think.const.HOME_IMG_URL}b.png"/>
+        <img class="c" src="{$Think.const.HOME_IMG_URL}c.png"/>
+        <img class="d" src="{$Think.const.HOME_IMG_URL}d.png"/>
+        <img class="e" src="{$Think.const.HOME_IMG_URL}e.png"/>
+        <img class="f" src="{$Think.const.HOME_IMG_URL}f.png"/>
+    </div>
+
+</div>
+
+<div class="clearfix">
+
+</div>
+<div id="scroll-top">
+    <a href="#"></a>
+</div>
+<footer>
+    <p>Copyright &copy;2016.Thai Travel All rights reserved.</p>
+</footer>
+
+<script src="{$Think.const.HOME_JS_URL}jquery-1.12.3.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="{$Think.const.HOME_JS_URL}style.js" type="text/javascript" charset="utf-8"></script>
+<script src="{$Think.const.HOME_JS_URL}bootstrap.min.js" type="text/javascript" charset="utf-8"></script>
+</body>
+</html>

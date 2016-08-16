@@ -1,0 +1,149 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="<?php echo (HOME_CSS_URL); ?>bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="<?php echo (HOME_CSS_URL); ?>style.css" />
+    <title>常见问题解答</title>
+</head>
+
+<body>
+<div class="page-heading">
+
+    <!--导航 -->
+    <div class="navbar navbar-inverse navbar-static-top" role="navigation" id="menu-nav">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">切换导航</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/ThaiTravel/index.php/Home/Index/index">ThaiTravel</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="/ThaiTravel/index.php/Home/Index/index">首页</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">目的地 <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+
+
+                            <li><a href="/ThaiTravel/index.php/Home/Destination/desinterest">美丽风光</a></li>
+                            <li><a href="/ThaiTravel/index.php/Home/Destination/despark">国家公园</a></li>
+
+                        </ul>
+                    </li>
+                    <li><a href="/ThaiTravel/index.php/Home/Index/activity">活动</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">概况 <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <?php
+ if($_SESSION['user_id']){ echo '<li><a href="/ThaiTravel/index.php/Home/Story/storythai">写游记</a></li>'; } ; ?>
+                            <li><a href="/ThaiTravel/index.php/Home/Story/storylist">我们的故事</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">路线推荐 <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/ThaiTravel/index.php/Home/Route/recommendthai">Thai推荐</a></li>
+
+                        </ul>
+                    </li>
+
+                    <li class="active"><a href="/ThaiTravel/index.php/Home/Index/FAQ">常见问题</a></li>
+                    <?php
+ if($_SESSION['user_id']){ echo '<li class="dropdown"  >'; echo '<a href="#" class="dropdown-toggle" data-toggle="dropdown">个人中心 <span class="caret"></span></a>'; echo '<ul class="dropdown-menu">'; echo '<li><a href="/ThaiTravel/index.php/Home/Index/edit">个人中心</a></li>'; echo '<li><a href="/ThaiTravel/index.php/Home/User/logout">注销登录</a></li>'; echo '</ul>'; echo '</li>'; }else{ echo '<li><a href="/ThaiTravel/index.php/Home/User/login">登录</a></li>'; } ; ?>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="cover-head">
+        <div class="container">
+            <h1>常见问题解答</h1>
+            <p>在前往泰国之前心里面很多疑惑？别担心！我们来为您解答！</p>
+        </div>
+    </div>
+</div>
+
+<div class="container faq">
+    <h2 class="faq-top">FAQ's</h2>
+    <ul class="question">
+        <li><a href="#a1" >1.护照签证</a></li>
+        <li><a href="#a2" >2.去泰国旅游要带多少钱？</a></li>
+        <li><a href="#a3" >3.通信问题</a></li>
+        <li><a href="#a4" >4.外出需要注意什么？</a></li>
+        <li><a href="#a5" >5.住宿注意事项：</a></li>
+        <li><a href="#a6" >6.购物注意事项：</a></li>
+        <li><a href="#a7" >7.回国注意事项：</a></li>
+    </ul>
+    <div class="answer">
+        <div id="a1" class="edge">
+            <h4>1.护照签证</h4>
+            <p>虽然泰国是落地签，但是个人建议您还是提前办好签证，因为国内海关说不准会难为您，现在泰国实施免签政策，您可以亲自去泰国领事馆办理，需要准备一些表格资料，或者你可以在淘宝上面找到很多代办的，大概给个三五十块就行；</p>
+        </div>
+        <div id="a2" class="edge">
+            <h4>2.去泰国旅游要带多少钱？</h4>
+            <p>到中国银行换取泰铢，换取泰铢要提前一天预约，汇率大致为1元人民币=5泰铢，具体汇率以实际换取时为准。换取的泰铢为一张1000面额，因面额较大，所以可以在到达泰国之后到宾馆前台或者就近商店换零钱。 那需要换多少泰铢呢，出发前旅行社和我们说只要换500元左右够付点小费就行了，其他地方都可以刷卡，但实际上我们换的两三千泰铢完全不够用的，而且刷卡的地方除了免税店，很多地方都不支持，比如旅途中逛的一些小商店超市等等，建议换取不低于1000人民币，相信你旅行中的消费也绝对不会低于这个数字。</p>
+        </div>
+        <div id="a3" class="edge">
+            <h4>3.通信问题</h4>
+            <p>手机卡需要开通国际漫游方可使用，全球通也可以。可在国内购买happy卡，价格55元左右，泰国当地65元左右。不限流量，一定时长话费。切忌不要用国内流量上网，会非常贵。不过酒店会提供免费wifi，如果不打电话发短信的话，可以不用买卡，白天玩，晚上用wifi。</p>
+        </div>
+        <div id="a4" class="edge">
+            <h4>4.外出需要注意什么？</h4>
+            <p>1.泰国道路靠左行驶；<br />
+                2.从你进入泰国，几乎每到一个景点的时候，都会有人给你拍照，然后在你离开旅游景点的时候，会以100泰铢一张卖给你，挑一两张好看有意义的买就行了，不必每个景点都买；<br />
+                3.泰国是个佛教国家，随处可见寺庙和僧人。当拜访宗教地点时，进入供奉有佛像的寺庙之前要脱鞋，脱帽，当内有宗教聚会时请不要进入：至于在服装上，衣着干净合宜，不穿无袖短袖上衣，不穿短裤短裙。女士遇到僧侣要避让，请勿触碰和尚，即使碰到衣服也不行。寺庙一些景点会有禁止拍照的标志，请勿拍照。有些寺庙会设立功德箱，资源捐助。
+            </p>
+        </div>
+        <div id="a5" class="edge">
+            <h4>5.住宿注意事项：</h4>
+            <p>早上离开酒店记得在床头放20泰铢小费，不要放硬币，硬币一般认为是给乞丐的，会认为不尊重别人；泰国是个小费国家，而付小费是一种礼仪! 一般以下几个地方需要付小费：<br />
+                1.早上离开酒店放20泰铢；<br />
+                2.古式按摩可视按摩师的服务质量或专业水平而弹性给予，约泰铢50~100元左右；<br />
+                3.丛林骑大每次付驯象师20泰铢； <br />
+                4.马车游棕天： 每次付马夫20泰铢； <br />
+                5.与人妖拍每人每次20泰铢，和《泰囧》里面的rose拍照要付400泰铢；<br />
+                6.行李小费：一间房间一次约给行李人员泰珠20元
+            </p>
+        </div>
+        <div id="a6" class="edge">
+            <h4>6.购物注意事项：</h4>
+            <p>1.很多朋友准备在回国前到免税店疯狂购物一把，泰国的一些知名化妆品如OLAY、香烟、LEE的牛仔裤，手表等比国内便宜，需要的朋友可以购买，这些是免税的。其他的一些纪念品，食品这些是不免税的，需要购买超过2000泰铢可以去除一定比例的税，需要注意的是，免税店里面的纪念品，食品等比外面商店的差不多贵，有些甚至达到两倍左右，所以建议如果需要购买纪念品和零食的可以在旅游的时候看到合适的就买了。<br />
+                2.只有干果类的零食能够带入境内，比如榴莲糖，椰子干等； <br />
+                3.免税店购买物品需要凭护照和航班机票才能购买，免税店购买的化妆品、香烟等当场不能拿到，需要返程安检后到泰国机场内的免税店凭黄色发票领取，免税店购买的物品可直接带上飞机，酒水也可以。
+            </p>
+        </div>
+        <div id="a7" class="edge">
+            <h4>7.回国注意事项：</h4>
+            <p>1.每人限制带2条香烟，一瓶洋酒入境；<br />
+                2.水果肉类不能带入境；<br />
+                3.当地导游说在机场办理退税手续需要每笔扣掉100泰铢手续费，很多人就没有去退税，其实不扣手续费。
+            </p>
+        </div>
+
+    </div>
+
+</div>
+
+<div id="scroll-top">
+    <a href="#"></a>
+</div>
+
+<footer>
+    <p>Copyright &copy;2016.Thai Travel All rights reserved.</p>
+</footer>
+
+
+
+<script src="<?php echo (HOME_JS_URL); ?>jquery-1.12.3.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="<?php echo (HOME_JS_URL); ?>style.js" type="text/javascript" charset="utf-8"></script>
+<script src="<?php echo (HOME_JS_URL); ?>bootstrap.min.js" type="text/javascript" charset="utf-8"></script>
+</body>
+
+</html>

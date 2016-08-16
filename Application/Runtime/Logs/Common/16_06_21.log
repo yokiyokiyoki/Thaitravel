@@ -1,0 +1,48 @@
+[ 2016-06-21T13:39:21+08:00 ] ::1 /ThaiTravel/Public/Admin/img/progress.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-21T13:43:57+08:00 ] ::1 /ThaiTravel/Public/Home/css/bootstrap.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-21T13:54:08+08:00 ] ::1 /ThaiTravel/Public/Admin/utilLib/fonts/font_awesome/fontawesome-webfontf77b.woff?v=3.2.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-21T13:54:09+08:00 ] ::1 /ThaiTravel/Public/Admin/utilLib/fonts/font_awesome/fontawesome-webfontf77b.ttf?v=3.2.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-21T14:11:38+08:00 ] ::1 /ThaiTravel/index.php/%3C?php%20echo%20ADMIN_IMG;?%3E1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+ERR: 无法加载模块:
+
+[ 2016-06-21T14:11:38+08:00 ] ::1 /ThaiTravel/index.php/%3C?php%20echo%20ADMIN_IMG;?%3E3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+ERR: 无法加载模块:
+
+[ 2016-06-21T14:11:38+08:00 ] ::1 /ThaiTravel/Public/Admin/img/progress.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-21T14:11:38+08:00 ] ::1 /ThaiTravel/index.php/%3C?php%20echo%20ADMIN_IMG;?%3E2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+ERR: 无法加载模块:
+
